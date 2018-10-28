@@ -1,0 +1,19 @@
+{
+  "reponame":"awesomehd1's repo",
+  "repologo":""
+  "repoauthor":"awesomehd1",
+  "repodesc":"GAMES",
+  "category":[
+    {
+      "categoryname":"games",
+      "games":[
+        {
+          "name":"Pokemon",
+          "link":"https://raw.githubusercontent.com/awesomehd1/gbalong/master/Pokemon%20-%20Fire%20Red%20Version%20(U)%20(V1.1).gba",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
